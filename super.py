@@ -14,6 +14,7 @@ folder_path = "C:\\Users\\PC\\Desktop\\flower classification\\archive\\flowers\\
 classes = os.listdir(folder_path)
 print("Classes:", classes)
 
+
 # Dataset
 dataset = []
 
