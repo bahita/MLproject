@@ -12,9 +12,7 @@ folder_path = "C:\\Users\\PC\\Desktop\\flower classification\\archive\\flowers\\
 
 # Get the five flower classes
 classes = os.listdir(folder_path)
-print("Classes:", classes)
-
-
+print("Classes :", classes)
 # Dataset
 dataset = []
 
